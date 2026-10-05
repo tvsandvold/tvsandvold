@@ -44,7 +44,9 @@ It combines a React frontend with a Spring Boot REST API, JWT authentication and
 
 ### Portfolio
 
-My personal portfolio and a place to showcase what I've worked on, what I'm learning and some of the technologies I've used along the way.
+My personal portfolio website where I showcase my background, skills, experience and projects.
+
+[View live portfolio](https://tvsandvold.pages.dev) · [View repository](https://github.com/tvsandvold/Portfolio)
 
 **Built with:** `React` `JavaScript` `CSS`
 
