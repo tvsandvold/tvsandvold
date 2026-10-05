@@ -14,7 +14,6 @@ praktiske og komplekse problemer.
 - PHP
 - Python
 - JavaScript
-- Node.js
 - SQL
 - Git
 - GIS
