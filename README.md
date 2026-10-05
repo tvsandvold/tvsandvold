@@ -62,4 +62,4 @@ I'm still early in my career, so I'm also interested in exploring new areas and 
 
 I'm currently looking for opportunities to start my career in IT and continue developing as a developer.
 
-[LinkedIn](https://www.linkedin.com/in/tvsandvold/) | [Email](tvsandvold@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tvsandvold/) | [Email](mailto:tvsandvold@gmail.com)
