@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hei, jeg er Terje!
 
-<!--
-**tvsandvold/tvsandvold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Bachelor i IT og informasjonssystemer  
+ Interessert i fullstack-utvikling
 
-Here are some ideas to get you started:
+Jeg liker å jobbe i skjæringspunktet mellom teknologi og mennesker,
+og er spesielt interessert i hvordan IT kan brukes til å løse
+praktiske og komplekse problemer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Teknologi
+
+- Java
+- C#
+- PHP
+- Python
+- JavaScript
+- Node.js
+- SQL
+- Git
+- GIS
+
+##  Prosjekter
+
+### Portfolio
+--------------------------
+
+### Taskmanager
+--------------------------
+
+### Parat-Bridge
+Middleware-prototype utviklet som bachelorprosjekt for å koble
+militære og sivile systemer for bedre informasjonsflyt i
+krisehåndtering.
+
+##  Hva jeg holder på med nå på hobbybasis
+
+- Fullstack-utvikling med:
+  - React
+  - Spring Boot
+
+## Kontakt
+
+[LinkedIn](https://www.linkedin.com/in/terje-sandvold/)
+[Email](tvsandvold@gmail.com)
