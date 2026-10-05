@@ -40,4 +40,5 @@ krisehåndtering.
 ## Kontakt
 
 [LinkedIn](https://www.linkedin.com/in/terje-sandvold/)
+##
 [Email](tvsandvold@gmail.com)
